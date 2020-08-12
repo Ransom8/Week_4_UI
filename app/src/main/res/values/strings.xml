@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week 4</string>
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="SIGN_OUT">SIGN OUT</string>
+    <string name="Welcome_to_app">Welcome to app</string>
+    <string name="text_2">3,666 businesses signed up last week</string>
+    <string name="text_3">Try Acne free for 30 days</string>
+    <string name="arrow_button">arrow button</string>
+    <string name="image_view">image view</string>
+</resources>
